@@ -8,5 +8,7 @@ public class class1
 	{
 		
 		System.out.println("hiii");
+		
+		System.out.println("bye");
 	}
 }
